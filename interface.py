@@ -1,13 +1,11 @@
 #####Welcome!
 
 from gensim.models import KeyedVectors
-import os
 import tensorflow as tf
 
 ##make sure you install the correct version of scipy (v1.12 or earlier or else this block wont work)
 
 biowordvec_model = KeyedVectors.load_word2vec_format('BioWordVec Embedding Model.bin', binary=True)
-
 
 def get_phrase_vec(vocablist, phrase):
     words = phrase.replace(",", "")
@@ -37,7 +35,7 @@ vocab = biowordvec_model.index_to_key
 
 robomechdb_model = tf.keras.models.load_model('ROBOMechDB Complete Set 1 Model Fold 1.keras')
 import pandas as pd
-complete_set = pd.read_csv(os.path.join(os.getcwd(),'Data Embedding & Model Development/Complete Sets/Complete Set 1.csv'))
+complete_set = pd.read_csv('complete_set.csv')
 
 triples_drug_keys = complete_set['0']
 triples_disease_keys = complete_set['1']
