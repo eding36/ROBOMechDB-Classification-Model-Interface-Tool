@@ -1,0 +1,837 @@
+,drug_name,disease_name,protein_name,model_confidence_value
+0,imatinib,asthma,nuclear receptor subfamily 3 group c member 1,0.9847622513771057
+1,imatinib,asthma,nuclear receptor subfamily 3 group c member 2,0.9826883673667908
+2,imatinib,asthma,nuclear receptor subfamily 5 group a member 1,0.9688787460327148
+3,imatinib,asthma,nuclear receptor subfamily 1 group i member 2,0.9581725597381592
+4,imatinib,asthma,nuclear receptor subfamily 0 group b member 1,0.9574732184410095
+5,imatinib,asthma,prostaglandin-endoperoxide synthase 2,0.8935290575027466
+6,imatinib,asthma,prostaglandin-endoperoxide synthase 1,0.8888187408447266
+7,imatinib,asthma,serpin family c member 1,0.8719773888587952
+8,imatinib,asthma,serpin family a member 6,0.8376014828681946
+9,imatinib,asthma,histamine receptor h1,0.8159198760986328
+10,imatinib,asthma,atp binding cassette subfamily b member 1,0.8125701546669006
+11,imatinib,asthma,cytochrome p450 family 1 subfamily b member 1,0.785886824131012
+12,imatinib,asthma,tubulin beta 2b class iib,0.7830065488815308
+13,imatinib,asthma,serpin family e member 1,0.7814565300941467
+14,imatinib,asthma,"ran, member ras oncogene family",0.7809531688690186
+15,imatinib,asthma,atp binding cassette subfamily c member 3,0.7747159600257874
+16,imatinib,asthma,adrenoceptor alpha 1d,0.7720499634742737
+17,imatinib,asthma,prostaglandin e synthase 3,0.7703503370285034
+18,imatinib,asthma,atp binding cassette subfamily a member 1,0.7685608863830566
+19,imatinib,asthma,aldo-keto reductase family 1 member c3,0.7631246447563171
+20,imatinib,asthma,adrenoceptor alpha 2c,0.7489882111549377
+21,imatinib,asthma,atp binding cassette subfamily c member 2,0.7480257749557495
+22,imatinib,asthma,sex hormone binding globulin,0.7463716268539429
+23,imatinib,asthma,cytochrome p450 family 1 subfamily a member 1,0.7447987794876099
+24,imatinib,asthma,atp binding cassette subfamily b member 11,0.7354863286018372
+25,imatinib,asthma,tubulin beta class i,0.7343759536743164
+26,imatinib,asthma,tubulin beta 4b class ivb,0.7343475222587585
+27,imatinib,asthma,adrenoceptor alpha 2a,0.7311484217643738
+28,imatinib,asthma,aldo-keto reductase family 1 member c1,0.7290657162666321
+29,imatinib,asthma,dna topoisomerase ii beta,0.7277716994285583
+30,imatinib,asthma,cytochrome p450 family 2 subfamily b member 6,0.7276647686958313
+31,imatinib,asthma,tubulin beta 3 class iii,0.7188776135444641
+32,imatinib,asthma,dna topoisomerase ii alpha,0.7181606292724609
+33,imatinib,asthma,thymidylate synthetase,0.7180082201957703
+34,imatinib,asthma,adrenoceptor beta 2,0.7156649827957153
+35,imatinib,asthma,cytochrome p450 family 3 subfamily a member 4,0.7148095965385437
+36,imatinib,asthma,dihydrofolate reductase,0.7144721746444702
+37,imatinib,asthma,cytochrome p450 family 2 subfamily d member 6,0.7138059139251709
+38,imatinib,asthma,cytochrome p450 family 1 subfamily a member 2,0.7056621313095093
+39,imatinib,asthma,atp binding cassette subfamily c member 9,0.7022636532783508
+40,imatinib,asthma,tubulin beta 2a class iia,0.7020554542541504
+41,imatinib,asthma,atp binding cassette subfamily g member 5,0.7001339793205261
+42,imatinib,asthma,atp binding cassette subfamily c member 8,0.699786365032196
+43,imatinib,asthma,eukaryotic translation initiation factor 4e,0.6994948983192444
+44,imatinib,asthma,cytochrome p450 family 24 subfamily a member 1,0.6978821158409119
+45,imatinib,asthma,cytochrome p450 family 11 subfamily b member 1,0.6969736814498901
+46,imatinib,asthma,adrenoceptor alpha 2b,0.6905724406242371
+47,imatinib,asthma,adrenoceptor beta 1,0.683955729007721
+48,imatinib,asthma,tubulin beta 1 class vi,0.6833430528640747
+49,imatinib,asthma,cytochrome p450 family 27 subfamily b member 1,0.6802182793617249
+50,imatinib,asthma,cytochrome p450 family 2 subfamily a member 6,0.6782488226890564
+51,imatinib,asthma,adrenoceptor alpha 1b,0.6772555112838745
+52,imatinib,asthma,"pim-2 proto-oncogene, serine/threonine kinase",0.6733512878417969
+53,imatinib,asthma,atp binding cassette subfamily g member 8,0.6719057559967041
+54,imatinib,asthma,histamine receptor h2,0.6710721850395203
+55,imatinib,asthma,cytochrome p450 family 2 subfamily e member 1,0.6646009087562561
+56,imatinib,asthma,inhibitor of nuclear factor kappa b kinase subunit beta,0.664189875125885
+57,imatinib,asthma,adrenoceptor beta 3,0.6640117168426514
+58,imatinib,asthma,tubulin beta 8 class viii,0.6618955135345459
+59,imatinib,asthma,cytochrome p450 family 27 subfamily a member 1,0.6578891277313232
+60,imatinib,asthma,cytochrome p450 family 3 subfamily a member 5,0.6552834510803223
+61,imatinib,asthma,cytochrome p450 family 11 subfamily b member 2,0.6544216871261597
+62,imatinib,asthma,adrenoceptor alpha 1a,0.6541098952293396
+63,imatinib,asthma,cytochrome p450 family 19 subfamily a member 1,0.6507880091667175
+64,imatinib,asthma,cytochrome p450 family 2 subfamily c member 9,0.6500210762023926
+65,imatinib,asthma,dna topoisomerase i,0.6494099497795105
+66,imatinib,asthma,tumor necrosis factor,0.6476078033447266
+67,imatinib,asthma,tubulin beta 6 class v,0.6444816589355469
+68,imatinib,asthma,cytochrome p450 family 2 subfamily c member 8,0.6433425545692444
+69,imatinib,asthma,cytochrome p450 family 17 subfamily a member 1,0.6430647969245911
+70,imatinib,asthma,nuclear factor kappa b subunit 1,0.6427316665649414
+71,imatinib,asthma,tubulin beta 4a class iva,0.6421759128570557
+72,imatinib,asthma,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/imp cyclohydrolase,0.636760413646698
+73,imatinib,asthma,cytochrome p450 family 3 subfamily a member 7,0.6357932090759277
+74,imatinib,asthma,"mer proto-oncogene, tyrosine kinase",0.6333732008934021
+75,imatinib,asthma,cytochrome p450 family 2 subfamily r member 1,0.6332913041114807
+76,imatinib,asthma,geranylgeranyl diphosphate synthase 1,0.6329149603843689
+77,imatinib,asthma,cytochrome p450 family 2 subfamily j member 2,0.6301953792572021
+78,imatinib,asthma,cytochrome p450 family 46 subfamily a member 1,0.6286161541938782
+79,imatinib,asthma,cytochrome p450 family 51 subfamily a member 1,0.6278519630432129
+80,imatinib,asthma,high mobility group box 1,0.627814769744873
+81,imatinib,asthma,cytochrome p450 family 2 subfamily c member 19,0.6150346994400024
+82,imatinib,asthma,cytochrome p450 family 3 subfamily a member 43,0.6114794611930847
+83,imatinib,asthma,histamine receptor h3,0.6068225502967834
+84,imatinib,asthma,solute carrier family 6 member 1,0.6039155125617981
+85,imatinib,asthma,cytochrome p450 family 2 subfamily c member 18,0.6006750464439392
+86,imatinib,asthma,farnesyl diphosphate synthase,0.5973030924797058
+87,imatinib,asthma,solute carrier family 6 member 4,0.5946750044822693
+88,imatinib,asthma,dna topoisomerase i mitochondrial,0.5910996794700623
+89,imatinib,asthma,thymidine phosphorylase,0.5900691747665405
+90,imatinib,asthma,dna polymerase beta,0.5890669226646423
+91,imatinib,asthma,solute carrier family 6 member 3,0.5877082943916321
+92,imatinib,asthma,angiotensin i converting enzyme,0.5857579112052917
+93,imatinib,asthma,kinase insert domain receptor,0.5791186690330505
+94,imatinib,asthma,"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase",0.5780024528503418
+95,imatinib,asthma,tubulin alpha 4a,0.5763885974884033
+96,imatinib,asthma,solute carrier family 6 member 2,0.5747489929199219
+97,imatinib,asthma,udp glucuronosyltransferase family 1 member a1,0.5741399526596069
+98,imatinib,asthma,atpase h+/k+ transporting subunit beta,0.5734972953796387
+99,imatinib,asthma,ret proto-oncogene,0.5732134580612183
+100,imatinib,asthma,"major histocompatibility complex, class i, a",0.568811297416687
+101,imatinib,asthma,cytochrome p450 family 21 subfamily a member 2,0.5687156319618225
+102,imatinib,asthma,"kit proto-oncogene, receptor tyrosine kinase",0.5685228109359741
+103,imatinib,asthma,"b-raf proto-oncogene, serine/threonine kinase",0.5616147518157959
+104,imatinib,asthma,cholinergic receptor muscarinic 2,0.5612293481826782
+105,imatinib,asthma,methylenetetrahydrofolate reductase,0.5565680265426636
+106,imatinib,asthma,angiotensin converting enzyme 2,0.5560794472694397
+107,imatinib,asthma,carbonic anhydrase 2,0.5560484528541565
+108,imatinib,asthma,3-hydroxy-3-methylglutaryl-coa reductase,0.5507425665855408
+109,imatinib,asthma,bcl2 apoptosis regulator,0.5472456812858582
+110,imatinib,asthma,atpase h+/k+ transporting subunit alpha,0.544335663318634
+111,imatinib,asthma,sulfotransferase family 1a member 1,0.5430659651756287
+112,imatinib,asthma,"src proto-oncogene, non-receptor tyrosine kinase",0.5405601859092712
+113,imatinib,asthma,acyl-coa synthetase long chain family member 5,0.5403300523757935
+114,imatinib,asthma,cholinergic receptor muscarinic 3,0.538115382194519
+115,imatinib,asthma,vascular endothelial growth factor a,0.5308469533920288
+116,imatinib,asthma,cholinergic receptor muscarinic 1,0.5300840139389038
+117,imatinib,asthma,solute carrier family 5 member 1,0.5257570147514343
+118,imatinib,asthma,"lck proto-oncogene, src family tyrosine kinase",0.5232816338539124
+119,imatinib,asthma,sulfotransferase family 2a member 1,0.5225135684013367
+120,imatinib,asthma,"blk proto-oncogene, src family tyrosine kinase",0.5220611095428467
+121,imatinib,asthma,dopamine receptor d2,0.520608127117157
+122,imatinib,asthma,histamine receptor h4,0.517223596572876
+123,imatinib,asthma,tubulin gamma 1,0.5137056112289429
+124,imatinib,asthma,carbonic anhydrase 1,0.5129230618476868
+125,imatinib,asthma,cholinergic receptor muscarinic 4,0.5124437212944031
+126,imatinib,asthma,dopamine receptor d4,0.5094069838523865
+127,imatinib,asthma,ribonucleotide reductase regulatory subunit m2,0.5092003345489502
+128,imatinib,asthma,tumor protein p53,0.5073696374893188
+129,imatinib,asthma,myosin light chain kinase family member 4,0.5014105439186096
+130,imatinib,asthma,ribonucleotide reductase catalytic subunit m1,0.5009883642196655
+131,imatinib,asthma,5-methyltetrahydrofolate-homocysteine methyltransferase reductase,0.4970130920410156
+132,imatinib,asthma,solute carrier family 12 member 1,0.49663832783699036
+133,imatinib,asthma,cytidine deaminase,0.494339257478714
+134,imatinib,asthma,bmx non-receptor tyrosine kinase,0.4875345528125763
+135,imatinib,asthma,"hck proto-oncogene, src family tyrosine kinase",0.48498791456222534
+136,imatinib,asthma,fkbp prolyl isomerase 1b,0.47479143738746643
+137,imatinib,asthma,solute carrier family 5 member 4,0.4711979031562805
+138,imatinib,asthma,atpase na+/k+ transporting subunit beta 1,0.4703000783920288
+139,imatinib,asthma,c-x-c motif chemokine receptor 1,0.46931812167167664
+140,imatinib,asthma,carbonic anhydrase 4,0.4691323935985565
+141,imatinib,asthma,atpase na+/k+ transporting subunit beta 2,0.4681132435798645
+142,imatinib,asthma,carbonic anhydrase 3,0.46552133560180664
+143,imatinib,asthma,peroxisome proliferator activated receptor gamma,0.46526259183883667
+144,imatinib,asthma,"raf-1 proto-oncogene, serine/threonine kinase",0.46119245886802673
+145,imatinib,asthma,isoleucyl-trna synthetase 1,0.46107393503189087
+146,imatinib,asthma,c-x-c motif chemokine ligand 8,0.45786213874816895
+147,imatinib,asthma,calcium voltage-gated channel subunit alpha1 f,0.45286989212036133
+148,imatinib,asthma,peroxisome proliferator activated receptor alpha,0.452836275100708
+149,imatinib,asthma,glutathione-disulfide reductase,0.45274147391319275
+150,imatinib,asthma,bmp2 inducible kinase,0.45215246081352234
+151,imatinib,asthma,sodium voltage-gated channel alpha subunit 2,0.45165684819221497
+152,imatinib,asthma,atpase na+/k+ transporting subunit alpha 1,0.44977325201034546
+153,imatinib,asthma,"abl proto-oncogene 1, non-receptor tyrosine kinase",0.4496549069881439
+154,imatinib,asthma,fkbp prolyl isomerase 1a,0.4482295513153076
+155,imatinib,asthma,solute carrier family 5 member 2,0.44759589433670044
+156,imatinib,asthma,c-c motif chemokine receptor 1,0.4474647045135498
+157,imatinib,asthma,atpase na+/k+ transporting subunit alpha 2,0.44710829854011536
+158,imatinib,asthma,24-dehydrocholesterol reductase,0.4467051327228546
+159,imatinib,asthma,"jun proto-oncogene, ap-1 transcription factor subunit",0.4462031126022339
+160,imatinib,asthma,fms related receptor tyrosine kinase 1,0.44205912947654724
+161,imatinib,asthma,cholinergic receptor muscarinic 5,0.44152718782424927
+162,imatinib,asthma,cyp3a7-cyp3a51p readthrough,0.43981316685676575
+163,imatinib,asthma,solute carrier family 12 member 3,0.4384782314300537
+164,imatinib,asthma,tubulin alpha 1a,0.43802741169929504
+165,imatinib,asthma,solute carrier family 5 member 6,0.4374539852142334
+166,imatinib,asthma,hypoxia inducible factor 1 subunit alpha,0.4366549849510193
+167,imatinib,asthma,c-x-c motif chemokine receptor 4,0.43353864550590515
+168,imatinib,asthma,calcium voltage-gated channel subunit alpha1 i,0.4329046607017517
+169,imatinib,asthma,prostaglandin i2 receptor,0.42773622274398804
+170,imatinib,asthma,aldehyde dehydrogenase 2 family member,0.42770540714263916
+171,imatinib,asthma,bub1 mitotic checkpoint serine/threonine kinase,0.42669910192489624
+172,imatinib,asthma,uridine monophosphate synthetase,0.42313140630722046
+173,imatinib,asthma,dihydropyrimidine dehydrogenase,0.4191224277019501
+174,imatinib,asthma,atpase na+/k+ transporting subunit beta 3,0.4190734326839447
+175,imatinib,asthma,adenosine a2a receptor,0.41898515820503235
+176,imatinib,asthma,solute carrier family 12 member 2,0.4167940020561218
+177,imatinib,asthma,tubulin epsilon 1,0.4148329496383667
+178,imatinib,asthma,erb-b2 receptor tyrosine kinase 2,0.4135463535785675
+179,imatinib,asthma,peptidylprolyl isomerase b,0.41291213035583496
+180,imatinib,asthma,solute carrier family 19 member 1,0.41214948892593384
+181,imatinib,asthma,adenosine a2b receptor,0.41027769446372986
+182,imatinib,asthma,phosphodiesterase 4d,0.40977609157562256
+183,imatinib,asthma,squalene epoxidase,0.4078695476055145
+184,imatinib,asthma,atpase na+/k+ transporting subunit alpha 4,0.40781256556510925
+185,imatinib,asthma,platelet derived growth factor receptor alpha,0.4056021571159363
+186,imatinib,asthma,calcium voltage-gated channel subunit alpha1 h,0.40556368231773376
+187,imatinib,asthma,phosphodiesterase 1c,0.4011603891849518
+188,imatinib,asthma,ttk protein kinase,0.40045174956321716
+189,imatinib,asthma,atpase na+/k+ transporting subunit alpha 3,0.3979704678058624
+190,imatinib,asthma,solute carrier family 22 member 1,0.3973807990550995
+191,imatinib,asthma,discoidin domain receptor tyrosine kinase 1,0.39728930592536926
+192,imatinib,asthma,renin,0.39685410261154175
+193,imatinib,asthma,atpase copper transporting beta,0.3967568576335907
+194,imatinib,asthma,7-dehydrocholesterol reductase,0.39641785621643066
+195,imatinib,asthma,carbonic anhydrase 12,0.3959783613681793
+196,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit alpha2,0.3934623897075653
+197,imatinib,asthma,"peptidylprolyl cis/trans isomerase, nima-interacting 1",0.3929380476474762
+198,imatinib,asthma,tek receptor tyrosine kinase,0.39196017384529114
+199,imatinib,asthma,sodium voltage-gated channel alpha subunit 1,0.3903314173221588
+200,imatinib,asthma,prostaglandin d2 receptor 2,0.3876182436943054
+201,imatinib,asthma,solute carrier family 9 member a1,0.38565024733543396
+202,imatinib,asthma,adenosine a3 receptor,0.38553881645202637
+203,imatinib,asthma,fms related receptor tyrosine kinase 3,0.3854168653488159
+204,imatinib,asthma,5-hydroxytryptamine receptor 2c,0.38529738783836365
+205,imatinib,asthma,gc vitamin d binding protein,0.38511812686920166
+206,imatinib,asthma,carbonic anhydrase 9,0.38494327664375305
+207,imatinib,asthma,"fyn proto-oncogene, src family tyrosine kinase",0.38232335448265076
+208,imatinib,asthma,sodium voltage-gated channel alpha subunit 3,0.38085299730300903
+209,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit alpha1,0.3805701732635498
+210,imatinib,asthma,rho associated coiled-coil containing protein kinase 1,0.3803730309009552
+211,imatinib,asthma,opioid receptor mu 1,0.379526823759079
+212,imatinib,asthma,"met proto-oncogene, receptor tyrosine kinase",0.37824586033821106
+213,imatinib,asthma,leukotriene c4 synthase,0.37761202454566956
+214,imatinib,asthma,solute carrier family 2 member 9,0.37657517194747925
+215,imatinib,asthma,epidermal growth factor receptor,0.37578916549682617
+216,imatinib,asthma,sodium voltage-gated channel alpha subunit 4,0.3745740056037903
+217,imatinib,asthma,atpase copper transporting alpha,0.3744490146636963
+218,imatinib,asthma,carbonic anhydrase 13,0.3742307126522064
+219,imatinib,asthma,vitamin k epoxide reductase complex subunit 1,0.3739550709724426
+220,imatinib,asthma,platelet derived growth factor receptor beta,0.37363848090171814
+221,imatinib,asthma,carbonic anhydrase 11,0.37144696712493896
+222,imatinib,asthma,phosphodiesterase 6c,0.3696495592594147
+223,imatinib,asthma,carbonic anhydrase 7,0.36819988489151
+224,imatinib,asthma,axl receptor tyrosine kinase,0.3664293587207794
+225,imatinib,asthma,adenosine deaminase,0.36554908752441406
+226,imatinib,asthma,txk tyrosine kinase,0.36316201090812683
+227,imatinib,asthma,albumin,0.3623906970024109
+228,imatinib,asthma,solute carrier family 47 member 1,0.3614841103553772
+229,imatinib,asthma,carbonic anhydrase 14,0.36049672961235046
+230,imatinib,asthma,fms related receptor tyrosine kinase 4,0.35988694429397583
+231,imatinib,asthma,solute carrier family 46 member 1,0.35885292291641235
+232,imatinib,asthma,xanthine dehydrogenase,0.3585491180419922
+233,imatinib,asthma,15-hydroxyprostaglandin dehydrogenase,0.35853439569473267
+234,imatinib,asthma,aldehyde dehydrogenase 5 family member a1,0.35802125930786133
+235,imatinib,asthma,peptidylprolyl isomerase a,0.35792797803878784
+236,imatinib,asthma,arachidonate 5-lipoxygenase,0.3565358817577362
+237,imatinib,asthma,sodium channel epithelial 1 subunit alpha,0.3555961847305298
+238,imatinib,asthma,cytochrome p450 oxidoreductase,0.3552015423774719
+239,imatinib,asthma,bcl2 like 1,0.35500234365463257
+240,imatinib,asthma,opioid receptor kappa 1,0.35455092787742615
+241,imatinib,asthma,integrin subunit alpha 2b,0.3520311117172241
+242,imatinib,asthma,prostaglandin e receptor 2,0.3497535288333893
+243,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit alpha3,0.34914255142211914
+244,imatinib,asthma,estrogen receptor 1,0.3483533263206482
+245,imatinib,asthma,"smoothened, frizzled class receptor",0.34740015864372253
+246,imatinib,asthma,sodium voltage-gated channel alpha subunit 5,0.34420692920684814
+247,imatinib,asthma,5-hydroxytryptamine receptor 2a,0.34406211972236633
+248,imatinib,asthma,aurora kinase b,0.34396740794181824
+249,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit alpha6,0.34243565797805786
+250,imatinib,asthma,calcium voltage-gated channel subunit alpha1 s,0.34169280529022217
+251,imatinib,asthma,"mpl proto-oncogene, thrombopoietin receptor",0.3412628471851349
+252,imatinib,asthma,sodium voltage-gated channel alpha subunit 7,0.3411429524421692
+253,imatinib,asthma,vitamin d receptor,0.34079062938690186
+254,imatinib,asthma,sodium voltage-gated channel alpha subunit 10,0.340787798166275
+255,imatinib,asthma,plasminogen,0.3406255841255188
+256,imatinib,asthma,phosphodiesterase 6a,0.34011930227279663
+257,imatinib,asthma,acyl-coa oxidase 1,0.33988484740257263
+258,imatinib,asthma,phosphodiesterase 4a,0.3394239842891693
+259,imatinib,asthma,sodium voltage-gated channel alpha subunit 9,0.33902037143707275
+260,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit alpha4,0.3388449251651764
+261,imatinib,asthma,tec protein tyrosine kinase,0.33845973014831543
+262,imatinib,asthma,fkbp prolyl isomerase 5,0.33741727471351624
+263,imatinib,asthma,prostaglandin e receptor 1,0.3373323976993561
+264,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit beta3,0.33715686202049255
+265,imatinib,asthma,sirtuin 1,0.3364914655685425
+266,imatinib,asthma,opioid related nociceptin receptor 1,0.33617451786994934
+267,imatinib,asthma,sodium voltage-gated channel alpha subunit 11,0.33539730310440063
+268,imatinib,asthma,"kras proto-oncogene, gtpase",0.3352786898612976
+269,imatinib,asthma,protein kinase c alpha,0.33512818813323975
+270,imatinib,asthma,sodium voltage-gated channel alpha subunit 8,0.3345550298690796
+271,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit alpha5,0.3344649076461792
+272,imatinib,asthma,peroxisome proliferator activated receptor delta,0.33427226543426514
+273,imatinib,asthma,phosphodiesterase 4b,0.33399173617362976
+274,imatinib,asthma,solute carrier family 18 member a1,0.33297428488731384
+275,imatinib,asthma,"plasminogen activator, tissue type",0.3314809799194336
+276,imatinib,asthma,"yes proto-oncogene 1, src family tyrosine kinase",0.33056482672691345
+277,imatinib,asthma,fibroblast growth factor receptor 1,0.3300246298313141
+278,imatinib,asthma,phosphodiesterase 6h,0.32971590757369995
+279,imatinib,asthma,superoxide dismutase 1,0.3288554549217224
+280,imatinib,asthma,janus kinase 1,0.32884955406188965
+281,imatinib,asthma,leukocyte receptor tyrosine kinase,0.3283393383026123
+282,imatinib,asthma,"abl proto-oncogene 2, non-receptor tyrosine kinase",0.327697217464447
+283,imatinib,asthma,solute carrier family 27 member 2,0.3274416923522949
+284,imatinib,asthma,fkbp prolyl isomerase 4,0.3273077607154846
+285,imatinib,asthma,electron transfer flavoprotein dehydrogenase,0.3260518014431
+286,imatinib,asthma,calreticulin,0.3259551525115967
+287,imatinib,asthma,adenosine a1 receptor,0.3252119719982147
+288,imatinib,asthma,discoidin domain receptor tyrosine kinase 2,0.3248195946216583
+289,imatinib,asthma,purinergic receptor p2y12,0.3242702782154083
+290,imatinib,asthma,angiotensin ii receptor type 2,0.3234945237636566
+291,imatinib,asthma,annexin a1,0.3219829201698303
+292,imatinib,asthma,solute carrier family 22 member 6,0.32127854228019714
+293,imatinib,asthma,cysteinyl leukotriene receptor 1,0.320798397064209
+294,imatinib,asthma,"fes proto-oncogene, tyrosine kinase",0.32068678736686707
+295,imatinib,asthma,selectin e,0.320671409368515
+296,imatinib,asthma,solute carrier family 22 member 4,0.3206228017807007
+297,imatinib,asthma,phosphodiesterase 2a,0.3204304277896881
+298,imatinib,asthma,5-hydroxytryptamine receptor 1d,0.3199433982372284
+299,imatinib,asthma,calcium/calmodulin dependent protein kinase ii alpha,0.31884709000587463
+300,imatinib,asthma,cytidine/uridine monophosphate kinase 1,0.31857210397720337
+301,imatinib,asthma,phosphodiesterase 6d,0.3183067739009857
+302,imatinib,asthma,atm serine/threonine kinase,0.31793317198753357
+303,imatinib,asthma,monoamine oxidase b,0.3168070316314697
+304,imatinib,asthma,holocarboxylase synthetase,0.31576791405677795
+305,imatinib,asthma,solute carrier family 22 member 3,0.31531575322151184
+306,imatinib,asthma,dopamine receptor d1,0.3149050176143646
+307,imatinib,asthma,phosphodiesterase 11a,0.3145501911640167
+308,imatinib,asthma,vascular cell adhesion molecule 1,0.31450507044792175
+309,imatinib,asthma,calcium voltage-gated channel subunit alpha1 c,0.31380006670951843
+310,imatinib,asthma,transforming growth factor beta receptor 2,0.3135702311992645
+311,imatinib,asthma,solute carrier family 5 member 11,0.3135650157928467
+312,imatinib,asthma,prostaglandin f receptor,0.3128547668457031
+313,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit gamma2,0.31284499168395996
+314,imatinib,asthma,"troponin c1, slow skeletal and cardiac type",0.3120931088924408
+315,imatinib,asthma,calcium voltage-gated channel subunit alpha1 a,0.3116621971130371
+316,imatinib,asthma,androgen receptor,0.31128519773483276
+317,imatinib,asthma,ap2 associated kinase 1,0.30986571311950684
+318,imatinib,asthma,dna methyltransferase 3 alpha,0.3098208010196686
+319,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit beta2,0.3090154528617859
+320,imatinib,asthma,pre-mrna splicing tri-snrnp complex factor prpf4,0.3086642622947693
+321,imatinib,asthma,phosphodiesterase 6b,0.308659166097641
+322,imatinib,asthma,"dna polymerase alpha 1, catalytic subunit",0.30790406465530396
+323,imatinib,asthma,hypoxanthine phosphoribosyltransferase 1,0.30737873911857605
+324,imatinib,asthma,thyroid stimulating hormone receptor,0.3072165548801422
+325,imatinib,asthma,solute carrier family 25 member 6,0.3065967261791229
+326,imatinib,asthma,transient receptor potential cation channel subfamily a member 1,0.3064936399459839
+327,imatinib,asthma,salt inducible kinase 1,0.30640092492103577
+328,imatinib,asthma,cysteinyl leukotriene receptor 2,0.3061754107475281
+329,imatinib,asthma,receptor interacting serine/threonine kinase 3,0.3059332072734833
+330,imatinib,asthma,peptidylprolyl isomerase d,0.305368572473526
+331,imatinib,asthma,apolipoprotein b,0.30506354570388794
+332,imatinib,asthma,phosphodiesterase 1b,0.3039902150630951
+333,imatinib,asthma,thromboxane a2 receptor,0.3036186099052429
+334,imatinib,asthma,galactosidase alpha,0.3024905025959015
+335,imatinib,asthma,solute carrier family 22 member 2,0.3012999892234802
+336,imatinib,asthma,"tu translation elongation factor, mitochondrial",0.30108290910720825
+337,imatinib,asthma,riboflavin kinase,0.30085766315460205
+338,imatinib,asthma,5-methyltetrahydrofolate-homocysteine methyltransferase,0.3004349172115326
+339,imatinib,asthma,phosphodiesterase 4c,0.3001505136489868
+340,imatinib,asthma,calcium voltage-gated channel subunit alpha1 b,0.2994188666343689
+341,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit beta1,0.2981547713279724
+342,imatinib,asthma,caspase 1,0.29813793301582336
+343,imatinib,asthma,angiotensin ii receptor type 1,0.29807785153388977
+344,imatinib,asthma,apolipoprotein a1,0.29737091064453125
+345,imatinib,asthma,macrophage migration inhibitory factor,0.2966732382774353
+346,imatinib,asthma,estrogen related receptor alpha,0.29650402069091797
+347,imatinib,asthma,solute carrier family 22 member 12,0.29567331075668335
+348,imatinib,asthma,cereblon,0.29550421237945557
+349,imatinib,asthma,sodium channel epithelial 1 subunit beta,0.29463472962379456
+350,imatinib,asthma,glutamic-oxaloacetic transaminase 1,0.29256749153137207
+351,imatinib,asthma,interleukin 1 beta,0.2919728755950928
+352,imatinib,asthma,rho associated coiled-coil containing protein kinase 2,0.29197102785110474
+353,imatinib,asthma,leukotriene b4 receptor,0.2911786139011383
+354,imatinib,asthma,coagulation factor x,0.29092496633529663
+355,imatinib,asthma,metallothionein 1a,0.2903783619403839
+356,imatinib,asthma,prostaglandin e receptor 4,0.29033711552619934
+357,imatinib,asthma,phosphodiesterase 5a,0.2899635434150696
+358,imatinib,asthma,cd33 molecule,0.2898878753185272
+359,imatinib,asthma,homeodomain interacting protein kinase 1,0.28966984152793884
+360,imatinib,asthma,estrogen related receptor beta,0.2893901467323303
+361,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit gamma3,0.2892529368400574
+362,imatinib,asthma,dna methyltransferase 1,0.289193332195282
+363,imatinib,asthma,estrogen receptor 2,0.2885196805000305
+364,imatinib,asthma,tachykinin receptor 1,0.28823474049568176
+365,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit gamma1,0.28817713260650635
+366,imatinib,asthma,h1.0 linker histone,0.2878956198692322
+367,imatinib,asthma,phosphodiesterase 3b,0.28767648339271545
+368,imatinib,asthma,fibroblast growth factor receptor 3,0.2876562774181366
+369,imatinib,asthma,phosphodiesterase 3a,0.28722867369651794
+370,imatinib,asthma,solute carrier family 7 member 11,0.28715360164642334
+371,imatinib,asthma,low density lipoprotein receptor,0.28581660985946655
+372,imatinib,asthma,solute carrier family 22 member 5,0.2855396866798401
+373,imatinib,asthma,lipoprotein lipase,0.28515201807022095
+374,imatinib,asthma,myeloperoxidase,0.28495535254478455
+375,imatinib,asthma,death associated protein kinase 1,0.28492429852485657
+376,imatinib,asthma,thyroid peroxidase,0.28403380513191223
+377,imatinib,asthma,dopamine receptor d5,0.28381839394569397
+378,imatinib,asthma,amylase alpha 1c,0.2837592363357544
+379,imatinib,asthma,eph receptor a3,0.28317657113075256
+380,imatinib,asthma,phosphodiesterase 1a,0.28313952684402466
+381,imatinib,asthma,thyroid hormone receptor beta,0.28274422883987427
+382,imatinib,asthma,acetyl-coa acyltransferase 2,0.28259164094924927
+383,imatinib,asthma,cubilin,0.2824496030807495
+384,imatinib,asthma,"dna polymerase epsilon, catalytic subunit",0.28104525804519653
+385,imatinib,asthma,calcium voltage-gated channel subunit alpha1 d,0.28046995401382446
+386,imatinib,asthma,interleukin 1 receptor type 1,0.2804214656352997
+387,imatinib,asthma,platelet activating factor receptor,0.28041329979896545
+388,imatinib,asthma,paraoxonase 1,0.27985304594039917
+389,imatinib,asthma,tyrosine kinase non receptor 1,0.27909767627716064
+390,imatinib,asthma,phosphodiesterase 8a,0.2782451808452606
+391,imatinib,asthma,solute carrier family 25 member 5,0.27817684412002563
+392,imatinib,asthma,phosphodiesterase 7b,0.27791357040405273
+393,imatinib,asthma,il2 inducible t cell kinase,0.27761998772621155
+394,imatinib,asthma,mechanistic target of rapamycin kinase,0.27742964029312134
+395,imatinib,asthma,glutathione s-transferase pi 1,0.2771550714969635
+396,imatinib,asthma,matrix metallopeptidase 2,0.2768772542476654
+397,imatinib,asthma,microtubule associated protein 1a,0.27665337920188904
+398,imatinib,asthma,phosphodiesterase 7a,0.27656370401382446
+399,imatinib,asthma,solute carrier family 47 member 2,0.27617427706718445
+400,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit theta,0.2760147750377655
+401,imatinib,asthma,carnitine palmitoyltransferase 1a,0.27599650621414185
+402,imatinib,asthma,npc1 like intracellular cholesterol transporter 1,0.27560558915138245
+403,imatinib,asthma,dopamine receptor d3,0.27532076835632324
+404,imatinib,asthma,glutathione s-transferase mu 1,0.2751893103122711
+405,imatinib,asthma,gonadotropin releasing hormone receptor,0.2749890387058258
+406,imatinib,asthma,tubulin delta 1,0.2749151885509491
+407,imatinib,asthma,steroid 5 alpha-reductase 1,0.27484196424484253
+408,imatinib,asthma,ebp like,0.2744362950325012
+409,imatinib,asthma,gamma-aminobutyric acid type b receptor subunit 2,0.2737581431865692
+410,imatinib,asthma,gamma-glutamyl carboxylase,0.2735379934310913
+411,imatinib,asthma,calcium voltage-gated channel auxiliary subunit beta 2,0.27349257469177246
+412,imatinib,asthma,receptor interacting serine/threonine kinase 2,0.2733704745769501
+413,imatinib,asthma,aurora kinase a,0.27322983741760254
+414,imatinib,asthma,growth hormone releasing hormone receptor,0.27316468954086304
+415,imatinib,asthma,transthyretin,0.2729931175708771
+416,imatinib,asthma,solute carrier family 22 member 11,0.27281448245048523
+417,imatinib,asthma,hydroxysteroid 11-beta dehydrogenase 1,0.27280211448669434
+418,imatinib,asthma,calcium voltage-gated channel subunit alpha1 g,0.2726742625236511
+419,imatinib,asthma,progesterone receptor,0.27260497212409973
+420,imatinib,asthma,colony stimulating factor 1 receptor,0.2725551128387451
+421,imatinib,asthma,metallothionein 2a,0.27243149280548096
+422,imatinib,asthma,phosphodiesterase 10a,0.27241209149360657
+423,imatinib,asthma,phosphodiesterase 6g,0.27181825041770935
+424,imatinib,asthma,5-hydroxytryptamine receptor 4,0.27172622084617615
+425,imatinib,asthma,glutathione s-transferase alpha 2,0.27139702439308167
+426,imatinib,asthma,complement c5,0.2700027525424957
+427,imatinib,asthma,solute carrier family 18 member a2,0.2697087228298187
+428,imatinib,asthma,phosphoribosyl pyrophosphate amidotransferase,0.26913726329803467
+429,imatinib,asthma,cf transmembrane conductance regulator,0.26898837089538574
+430,imatinib,asthma,sphingosine-1-phosphate receptor 1,0.2685842216014862
+431,imatinib,asthma,cholesteryl ester transfer protein,0.268504798412323
+432,imatinib,asthma,alpha glucosidase,0.2678234279155731
+433,imatinib,asthma,g protein-coupled receptor kinase 4,0.2674511969089508
+434,imatinib,asthma,solute carrier family 22 member 8,0.26736271381378174
+435,imatinib,asthma,fibroblast growth factor receptor 2,0.2671780586242676
+436,imatinib,asthma,diacylglycerol o-acyltransferase 1,0.26684442162513733
+437,imatinib,asthma,sodium channel epithelial 1 subunit gamma,0.2668159008026123
+438,imatinib,asthma,prostaglandin d2 receptor,0.2662874162197113
+439,imatinib,asthma,fxyd domain containing ion transport regulator 2,0.26596516370773315
+440,imatinib,asthma,serine/threonine kinase 33,0.2659469544887543
+441,imatinib,asthma,bcl2 like 2,0.26585957407951355
+442,imatinib,asthma,eph receptor b2,0.2655690312385559
+443,imatinib,asthma,5-hydroxytryptamine receptor 2b,0.26556169986724854
+444,imatinib,asthma,phospholipase a2 group iie,0.2655082643032074
+445,imatinib,asthma,atpase h+ transporting v1 subunit a,0.26546353101730347
+446,imatinib,asthma,opioid receptor delta 1,0.2646276652812958
+447,imatinib,asthma,phospholipase a2 group ib,0.2643197774887085
+448,imatinib,asthma,glutathione s-transferase theta 1,0.26372650265693665
+449,imatinib,asthma,bromodomain containing 4,0.2632967233657837
+450,imatinib,asthma,parathyroid hormone 1 receptor,0.2622036933898926
+451,imatinib,asthma,s100 calcium binding protein p,0.2621335983276367
+452,imatinib,asthma,catechol-o-methyltransferase,0.26196205615997314
+453,imatinib,asthma,neurotrophic receptor tyrosine kinase 1,0.2618274986743927
+454,imatinib,asthma,eph receptor a5,0.2609606087207794
+455,imatinib,asthma,solute carrier organic anion transporter family member 1a2,0.2607022523880005
+456,imatinib,asthma,"coagulation factor ii, thrombin",0.2602563500404358
+457,imatinib,asthma,ebp cholestenol delta-isomerase,0.2599669098854065
+458,imatinib,asthma,interleukin 1 receptor associated kinase 1,0.25975725054740906
+459,imatinib,asthma,homeodomain interacting protein kinase 4,0.25939175486564636
+460,imatinib,asthma,coagulation factor ii thrombin receptor,0.2593734562397003
+461,imatinib,asthma,5-hydroxytryptamine receptor 1b,0.25933611392974854
+462,imatinib,asthma,5-hydroxytryptamine receptor 6,0.2589949071407318
+463,imatinib,asthma,monoamine oxidase a,0.2585236132144928
+464,imatinib,asthma,dead-box helicase 1,0.25775203108787537
+465,imatinib,asthma,phosphodiesterase 8b,0.25713205337524414
+466,imatinib,asthma,thyroid hormone receptor alpha,0.2568247616291046
+467,imatinib,asthma,potassium voltage-gated channel subfamily h member 2,0.2566748261451721
+468,imatinib,asthma,succinate dehydrogenase complex flavoprotein subunit a,0.2565253973007202
+469,imatinib,asthma,cytochrome c1,0.2560552656650543
+470,imatinib,asthma,g protein-coupled receptor kinase 2,0.25592637062072754
+471,imatinib,asthma,matrix metallopeptidase 9,0.25581854581832886
+472,imatinib,asthma,eph receptor a1,0.25578275322914124
+473,imatinib,asthma,janus kinase 3,0.25574690103530884
+474,imatinib,asthma,propionyl-coa carboxylase subunit alpha,0.25546687841415405
+475,imatinib,asthma,solute carrier organic anion transporter family member 1b1,0.2554466128349304
+476,imatinib,asthma,checkpoint kinase 2,0.25526130199432373
+477,imatinib,asthma,cobalamin binding intrinsic factor,0.25452572107315063
+478,imatinib,asthma,5-hydroxytryptamine receptor 1a,0.2542833685874939
+479,imatinib,asthma,calmodulin 1,0.2540970742702484
+480,imatinib,asthma,integrin subunit beta 3,0.25405585765838623
+481,imatinib,asthma,4-hydroxyphenylpyruvate dioxygenase,0.2538105845451355
+482,imatinib,asthma,sphingosine-1-phosphate receptor 3,0.2536222040653229
+483,imatinib,asthma,4-aminobutyrate aminotransferase,0.2533947825431824
+484,imatinib,asthma,sucrase-isomaltase,0.25293323397636414
+485,imatinib,asthma,calmodulin 2,0.25277531147003174
+486,imatinib,asthma,steroid 5 alpha-reductase 2,0.25263071060180664
+487,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit delta,0.2523101270198822
+488,imatinib,asthma,cyclin g associated kinase,0.25229108333587646
+489,imatinib,asthma,tank binding kinase 1,0.2521515488624573
+490,imatinib,asthma,sphingosine-1-phosphate receptor 4,0.25209546089172363
+491,imatinib,asthma,ste20 like kinase,0.252071350812912
+492,imatinib,asthma,5-hydroxytryptamine receptor 1f,0.25186824798583984
+493,imatinib,asthma,tyrosinase,0.2517097592353821
+494,imatinib,asthma,serine/threonine kinase 4,0.2515220642089844
+495,imatinib,asthma,follicle stimulating hormone receptor,0.25151559710502625
+496,imatinib,asthma,interleukin 6 receptor,0.2513747811317444
+497,imatinib,asthma,nischarin,0.25133275985717773
+498,imatinib,asthma,calcium voltage-gated channel auxiliary subunit beta 1,0.2511672079563141
+499,imatinib,asthma,hydroxycarboxylic acid receptor 2,0.25106799602508545
+500,imatinib,asthma,neurotensin receptor 2,0.2508266866207123
+501,imatinib,asthma,retinoid x receptor gamma,0.25067856907844543
+502,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit pi,0.2501675486564636
+503,imatinib,asthma,"glucosidase alpha, neutral c",0.24999505281448364
+504,imatinib,asthma,glucosidase ii alpha subunit,0.24957838654518127
+505,imatinib,asthma,cholinergic receptor nicotinic alpha 2 subunit,0.24952848255634308
+506,imatinib,asthma,sigma non-opioid intracellular receptor 1,0.24950216710567474
+507,imatinib,asthma,synuclein alpha,0.24947956204414368
+508,imatinib,asthma,serine/threonine kinase 16,0.24924059212207794
+509,imatinib,asthma,acetyl-coa acetyltransferase 1,0.24836879968643188
+510,imatinib,asthma,potassium voltage-gated channel subfamily h member 1,0.2483512908220291
+511,imatinib,asthma,bone morphogenetic protein receptor type 1b,0.24832801520824432
+512,imatinib,asthma,phospholipase a2 group iva,0.24830706417560577
+513,imatinib,asthma,glutamate ionotropic receptor ampa type subunit 2,0.24796229600906372
+514,imatinib,asthma,melanocortin 1 receptor,0.24760876595973969
+515,imatinib,asthma,propionyl-coa carboxylase subunit beta,0.24758955836296082
+516,imatinib,asthma,endothelin receptor type b,0.24743765592575073
+517,imatinib,asthma,ribosomal protein l3,0.2472681850194931
+518,imatinib,asthma,homeodomain interacting protein kinase 2,0.24704337120056152
+519,imatinib,asthma,dipeptidase 1,0.24671126902103424
+520,imatinib,asthma,amylase alpha 2a,0.2466949224472046
+521,imatinib,asthma,glucose-6-phosphate dehydrogenase,0.24659337103366852
+522,imatinib,asthma,gap junction protein alpha 1,0.24658739566802979
+523,imatinib,asthma,bradykinin receptor b2,0.24647113680839539
+524,imatinib,asthma,potassium voltage-gated channel subfamily h member 3,0.2464306652545929
+525,imatinib,asthma,guanylate cyclase 2c,0.24615448713302612
+526,imatinib,asthma,gamma-aminobutyric acid type a receptor subunit epsilon,0.24606522917747498
+527,imatinib,asthma,sphingosine-1-phosphate receptor 5,0.24602819979190826
+528,imatinib,asthma,insulin receptor,0.24583813548088074
+529,imatinib,asthma,dopamine beta-hydroxylase,0.24564999341964722
+530,imatinib,asthma,kelch like ech associated protein 1,0.24550075829029083
+531,imatinib,asthma,potassium voltage-gated channel subfamily h member 6,0.24482131004333496
+532,imatinib,asthma,macrophage stimulating 1 receptor,0.2445722371339798
+533,imatinib,asthma,maternal embryonic leucine zipper kinase,0.2444189488887787
+534,imatinib,asthma,serine/threonine kinase 17a,0.2443678230047226
+535,imatinib,asthma,glutamate ionotropic receptor nmda type subunit 2b,0.24422073364257812
+536,imatinib,asthma,amnion associated transmembrane protein,0.24387966096401215
+537,imatinib,asthma,solute carrier organic anion transporter family member 4a1,0.2436540275812149
+538,imatinib,asthma,growth hormone receptor,0.24317961931228638
+539,imatinib,asthma,retinoid x receptor beta,0.24312391877174377
+540,imatinib,asthma,glycine receptor alpha 3,0.24271586537361145
+541,imatinib,asthma,serine/threonine kinase 11,0.24252529442310333
+542,imatinib,asthma,nuak family kinase 2,0.24245889484882355
+543,imatinib,asthma,retinoid x receptor alpha,0.24211013317108154
+544,imatinib,asthma,5-hydroxytryptamine receptor 7,0.24201370775699615
+545,imatinib,asthma,bruton tyrosine kinase,0.2419595569372177
+546,imatinib,asthma,ornithine transcarbamylase,0.24190440773963928
+547,imatinib,asthma,activin a receptor type 1,0.2418842911720276
+548,imatinib,asthma,retinoic acid receptor alpha,0.24171757698059082
+549,imatinib,asthma,neurotrophic receptor tyrosine kinase 3,0.24165555834770203
+550,imatinib,asthma,glutamate ionotropic receptor ampa type subunit 1,0.24148119986057281
+551,imatinib,asthma,calcium voltage-gated channel auxiliary subunit alpha2delta 2,0.24146373569965363
+552,imatinib,asthma,metabolism of cobalamin associated b,0.24140922725200653
+553,imatinib,asthma,cholinergic receptor nicotinic alpha 3 subunit,0.24138528108596802
+554,imatinib,asthma,ryanodine receptor 2,0.2413535714149475
+555,imatinib,asthma,structural maintenance of chromosomes 1a,0.2412315160036087
+556,imatinib,asthma,glutamate ionotropic receptor nmda type subunit 2a,0.24116207659244537
+557,imatinib,asthma,interleukin 2,0.24111774563789368
+558,imatinib,asthma,cholinergic receptor nicotinic alpha 4 subunit,0.24041533470153809
+559,imatinib,asthma,transmembrane protein 97,0.24041533470153809
+560,imatinib,asthma,natriuretic peptide receptor 1,0.24041533470153809
+561,imatinib,asthma,natriuretic peptide b,0.24041533470153809
+562,imatinib,asthma,n-acetyltransferase 2,0.24041533470153809
+563,imatinib,asthma,oxytocin receptor,0.24041533470153809
+564,imatinib,asthma,calcyon neuron specific vesicular protein,0.24041533470153809
+565,imatinib,asthma,amylase alpha 1b,0.24041533470153809
+566,imatinib,asthma,cannabinoid receptor 1,0.24041533470153809
+567,imatinib,asthma,cannabinoid receptor 2,0.24041533470153809
+568,imatinib,asthma,amylase alpha 1a,0.24041533470153809
+569,imatinib,asthma,amine oxidase copper containing 3,0.24041533470153809
+570,imatinib,asthma,amine oxidase copper containing 1,0.24041533470153809
+571,imatinib,asthma,trace amine associated receptor 1,0.24041533470153809
+572,imatinib,asthma,cart prepropeptide,0.24041533470153809
+573,imatinib,asthma,cdgsh iron sulfur domain 1,0.24041533470153809
+574,imatinib,asthma,metabolism of cobalamin associated c,0.24041533470153809
+575,imatinib,asthma,melanocortin 3 receptor,0.24041533470153809
+576,imatinib,asthma,cholinergic receptor nicotinic alpha 10 subunit,0.24041533470153809
+577,imatinib,asthma,phenylalanine hydroxylase,0.24041533470153809
+578,imatinib,asthma,cholinergic receptor nicotinic alpha 5 subunit,0.24041533470153809
+579,imatinib,asthma,cholinergic receptor nicotinic alpha 6 subunit,0.24041533470153809
+580,imatinib,asthma,cholinergic receptor nicotinic alpha 7 subunit,0.24041533470153809
+581,imatinib,asthma,cholinergic receptor nicotinic beta 2 subunit,0.24041533470153809
+582,imatinib,asthma,cholinergic receptor nicotinic beta 3 subunit,0.24041533470153809
+583,imatinib,asthma,cholinergic receptor nicotinic beta 4 subunit,0.24041533470153809
+584,imatinib,asthma,chymotrypsinogen b1,0.24041533470153809
+585,imatinib,asthma,g protein-coupled receptor 35,0.24041533470153809
+586,imatinib,asthma,metabolism of cobalamin associated a,0.24041533470153809
+587,imatinib,asthma,insulin receptor related receptor,0.24041533470153809
+588,imatinib,asthma,membrane spanning 4-domains a1,0.24041533470153809
+589,imatinib,asthma,melatonin receptor 1b,0.24041533470153809
+590,imatinib,asthma,neuropeptide y,0.24041533470153809
+591,imatinib,asthma,neuropeptide y receptor y1,0.24041533470153809
+592,imatinib,asthma,ornithine decarboxylase 1,0.24041533470153809
+593,imatinib,asthma,arginine vasopressin receptor 1a,0.24041533470153809
+594,imatinib,asthma,tachykinin precursor 1,0.24041533470153809
+595,imatinib,asthma,glutamate ionotropic receptor nmda type subunit 3a,0.24041533470153809
+596,imatinib,asthma,synaptic vesicle glycoprotein 2a,0.24041533470153809
+597,imatinib,asthma,glutamate ionotropic receptor nmda type subunit 2d,0.24041533470153809
+598,imatinib,asthma,glutamate ionotropic receptor nmda type subunit 2c,0.24041533470153809
+599,imatinib,asthma,glutamate ionotropic receptor nmda type subunit 1,0.24041533470153809
+600,imatinib,asthma,glutamate ionotropic receptor kainate type subunit 5,0.24041533470153809
+601,imatinib,asthma,glutamate ionotropic receptor kainate type subunit 4,0.24041533470153809
+602,imatinib,asthma,glutamate ionotropic receptor kainate type subunit 3,0.24041533470153809
+603,imatinib,asthma,glutamate ionotropic receptor kainate type subunit 2,0.24041533470153809
+604,imatinib,asthma,aryl hydrocarbon receptor,0.24041533470153809
+605,imatinib,asthma,glutamate ionotropic receptor kainate type subunit 1,0.24041533470153809
+606,imatinib,asthma,glutamate ionotropic receptor ampa type subunit 4,0.24041533470153809
+607,imatinib,asthma,glutamate ionotropic receptor ampa type subunit 3,0.24041533470153809
+608,imatinib,asthma,glucagon receptor,0.24041533470153809
+609,imatinib,asthma,arginine vasopressin receptor 2,0.24041533470153809
+610,imatinib,asthma,somatostatin receptor 5,0.24041533470153809
+611,imatinib,asthma,somatostatin receptor 4,0.24041533470153809
+612,imatinib,asthma,arginine vasopressin receptor 1b,0.24041533470153809
+613,imatinib,asthma,somatostatin receptor 3,0.24041533470153809
+614,imatinib,asthma,somatostatin receptor 2,0.24041533470153809
+615,imatinib,asthma,somatostatin receptor 1,0.24041533470153809
+616,imatinib,asthma,bone gamma-carboxyglutamate protein,0.24041533470153809
+617,imatinib,asthma,glucagon like peptide 2 receptor,0.24041533470153809
+618,imatinib,asthma,glucagon like peptide 1 receptor,0.24041533470153809
+619,imatinib,asthma,butyrylcholinesterase,0.24041533470153809
+620,imatinib,asthma,hydroxycarboxylic acid receptor 3,0.24041533470153809
+621,imatinib,asthma,calcitonin receptor,0.24041533470153809
+622,imatinib,asthma,calcium sensing receptor,0.24041533470153809
+623,imatinib,asthma,melatonin receptor 1a,0.24041533470153809
+624,imatinib,asthma,glutamate ionotropic receptor nmda type subunit 3b,0.24041533470153809
+625,imatinib,asthma,iodothyronine deiodinase 1,0.24041533470153809
+626,imatinib,asthma,fatty acid binding protein 2,0.24041533470153809
+627,imatinib,asthma,ryanodine receptor 1,0.24041533470153809
+628,imatinib,asthma,dopa decarboxylase,0.24041533470153809
+629,imatinib,asthma,5-hydroxytryptamine receptor 3b,0.24041533470153809
+630,imatinib,asthma,potassium calcium-activated channel subfamily m alpha 1,0.24041533470153809
+631,imatinib,asthma,5-hydroxytryptamine receptor 1e,0.24041533470153809
+632,imatinib,asthma,leukotriene a4 hydrolase,0.24041533470153809
+633,imatinib,asthma,fatty acid amide hydrolase,0.24041533470153809
+634,imatinib,asthma,"lipase f, gastric type",0.24041533470153809
+635,imatinib,asthma,dipeptidyl peptidase 9,0.24041533470153809
+636,imatinib,asthma,5-hydroxytryptamine receptor 3e,0.24041533470153809
+637,imatinib,asthma,5-hydroxytryptamine receptor 3d,0.24041533470153809
+638,imatinib,asthma,5-hydroxytryptamine receptor 3c,0.24041533470153809
+639,imatinib,asthma,retinoic acid receptor gamma,0.24041533470153809
+640,imatinib,asthma,retinoic acid receptor beta,0.24041533470153809
+641,imatinib,asthma,5-hydroxytryptamine receptor 3a,0.24041533470153809
+642,imatinib,asthma,5-hydroxytryptamine receptor 5a,0.24041533470153809
+643,imatinib,asthma,melanocortin 2 receptor,0.24041533470153809
+644,imatinib,asthma,"elastase, neutrophil expressed",0.24041533470153809
+645,imatinib,asthma,eph receptor b6,0.24041533470153809
+646,imatinib,asthma,kallikrein b1,0.24041533470153809
+647,imatinib,asthma,dipeptidyl peptidase 4,0.24041533470153809
+648,imatinib,asthma,ryanodine receptor 3,0.24041533470153809
+649,imatinib,asthma,s100 calcium binding protein b,0.24041533470153809
+650,imatinib,asthma,endothelin receptor type a,0.24041533470153809
+651,imatinib,asthma,potassium voltage-gated channel subfamily h member 4,0.23982080817222595
+652,imatinib,asthma,ndufa4 mitochondrial complex associated,0.23975570499897003
+653,imatinib,asthma,sphingomyelin phosphodiesterase 1,0.23898176848888397
+654,imatinib,asthma,maltase-glucoamylase,0.23895327746868134
+655,imatinib,asthma,dipeptidyl peptidase 8,0.23863442242145538
+656,imatinib,asthma,structural maintenance of chromosomes 2,0.2386023998260498
+657,imatinib,asthma,interleukin 1 receptor associated kinase 3,0.238114595413208
+658,imatinib,asthma,pre-mrna processing factor kinase prp4k,0.23798562586307526
+659,imatinib,asthma,cathepsin g,0.23797443509101868
+660,imatinib,asthma,integrin subunit alpha l,0.23778322339057922
+661,imatinib,asthma,tankyrase 2,0.2370845377445221
+662,imatinib,asthma,potassium two pore domain channel subfamily k member 2,0.23653970658779144
+663,imatinib,asthma,potassium voltage-gated channel subfamily q member 1,0.23624776303768158
+664,imatinib,asthma,tyrosine hydroxylase,0.23528097569942474
+665,imatinib,asthma,cdc like kinase 1,0.2350735068321228
+666,imatinib,asthma,potassium voltage-gated channel subfamily a member 6,0.2348255068063736
+667,imatinib,asthma,solute carrier organic anion transporter family member 2b1,0.23371319472789764
+668,imatinib,asthma,pancreatic lipase,0.23342613875865936
+669,imatinib,asthma,calcium voltage-gated channel auxiliary subunit gamma 1,0.23301681876182556
+670,imatinib,asthma,epoxide hydrolase 2,0.2326618731021881
+671,imatinib,asthma,toll like receptor 4,0.23247729241847992
+672,imatinib,asthma,myosin light chain kinase,0.23244036734104156
+673,imatinib,asthma,aurora kinase c,0.2318483293056488
+674,imatinib,asthma,potassium voltage-gated channel subfamily a member 1,0.2314882129430771
+675,imatinib,asthma,n-acylsphingosine amidohydrolase 1,0.23104701936244965
+676,imatinib,asthma,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2",0.23014016449451447
+677,imatinib,asthma,toll like receptor 9,0.22911782562732697
+678,imatinib,asthma,potassium voltage-gated channel subfamily a member 2,0.22882433235645294
+679,imatinib,asthma,leucine rich repeat kinase 2,0.22856710851192474
+680,imatinib,asthma,serine/threonine kinase 10,0.22832147777080536
+681,imatinib,asthma,toll like receptor 7,0.22820132970809937
+682,imatinib,asthma,toll like receptor 2,0.22816108167171478
+683,imatinib,asthma,inositol monophosphatase 1,0.2281542718410492
+684,imatinib,asthma,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1",0.22809043526649475
+685,imatinib,asthma,potassium voltage-gated channel subfamily h member 7,0.22803249955177307
+686,imatinib,asthma,potassium voltage-gated channel subfamily a member 3,0.22802521288394928
+687,imatinib,asthma,transient receptor potential cation channel subfamily v member 3,0.22779704630374908
+688,imatinib,asthma,potassium voltage-gated channel subfamily h member 8,0.22765327990055084
+689,imatinib,asthma,solute carrier organic anion transporter family member 1b3,0.2276114672422409
+690,imatinib,asthma,tyrosine kinase non receptor 2,0.22733357548713684
+691,imatinib,asthma,death associated protein kinase 3,0.22712616622447968
+692,imatinib,asthma,potassium voltage-gated channel subfamily a member 10,0.22668613493442535
+693,imatinib,asthma,neurotrophic receptor tyrosine kinase 2,0.22589291632175446
+694,imatinib,asthma,transient receptor potential cation channel subfamily m member 8,0.22576667368412018
+695,imatinib,asthma,potassium voltage-gated channel subfamily h member 5,0.22546355426311493
+696,imatinib,asthma,potassium voltage-gated channel subfamily a member 7,0.22545818984508514
+697,imatinib,asthma,potassium voltage-gated channel subfamily d member 1,0.22496813535690308
+698,imatinib,asthma,microtubule associated protein 2,0.22474652528762817
+699,imatinib,asthma,potassium voltage-gated channel subfamily a member 4,0.22451820969581604
+700,imatinib,asthma,potassium two pore domain channel subfamily k member 3,0.2244417369365692
+701,imatinib,asthma,interleukin 11 receptor subunit alpha,0.2242775559425354
+702,imatinib,asthma,transient receptor potential cation channel subfamily v member 1,0.22392331063747406
+703,imatinib,asthma,potassium calcium-activated channel subfamily n member 4,0.2234770655632019
+704,imatinib,asthma,protein kinase cgmp-dependent 1,0.22318878769874573
+705,imatinib,asthma,potassium voltage-gated channel subfamily a member 5,0.22291946411132812
+706,imatinib,asthma,transient receptor potential cation channel subfamily v member 4,0.2225397527217865
+707,imatinib,asthma,janus kinase 2,0.2220264971256256
+708,imatinib,asthma,rio kinase 1,0.22161880135536194
+709,imatinib,asthma,potassium voltage-gated channel subfamily c member 2,0.22150540351867676
+710,imatinib,asthma,potassium voltage-gated channel subfamily b member 1,0.22148463129997253
+711,imatinib,asthma,guanylate cyclase 1 soluble subunit alpha 2,0.22129692137241364
+712,imatinib,asthma,neutrophil cytosolic factor 1,0.22023595869541168
+713,imatinib,asthma,potassium voltage-gated channel subfamily q member 2,0.21915140748023987
+714,imatinib,asthma,phosphorylase kinase catalytic subunit gamma 1,0.21857361495494843
+715,imatinib,asthma,potassium voltage-gated channel subfamily c member 1,0.21773697435855865
+716,imatinib,asthma,septin 9,0.2172616720199585
+717,imatinib,asthma,potassium voltage-gated channel subfamily d member 2,0.2171834409236908
+718,imatinib,asthma,protein kinase c theta,0.21638019382953644
+719,imatinib,asthma,guanylate cyclase 1 soluble subunit alpha 1,0.2154247760772705
+720,imatinib,asthma,histone deacetylase 1,0.21499301493167877
+721,imatinib,asthma,potassium voltage-gated channel subfamily d member 3,0.2149372696876526
+722,imatinib,asthma,calcium voltage-gated channel auxiliary subunit alpha2delta 1,0.21481314301490784
+723,imatinib,asthma,ndufa4 mitochondrial complex associated like 2,0.21474720537662506
+724,imatinib,asthma,dna primase subunit 2,0.21423126757144928
+725,imatinib,asthma,potassium voltage-gated channel subfamily c member 3,0.2139030247926712
+726,imatinib,asthma,potassium voltage-gated channel subfamily b member 2,0.2133266180753708
+727,imatinib,asthma,"ros proto-oncogene 1, receptor tyrosine kinase",0.2128198891878128
+728,imatinib,asthma,potassium voltage-gated channel subfamily q member 4,0.2127181738615036
+729,imatinib,asthma,potassium inwardly rectifying channel subfamily j member 1,0.21266542375087738
+730,imatinib,asthma,potassium inwardly rectifying channel subfamily j member 12,0.2123018205165863
+731,imatinib,asthma,potassium voltage-gated channel subfamily q member 3,0.2120504081249237
+732,imatinib,asthma,serine/threonine kinase 25,0.21126365661621094
+733,imatinib,asthma,potassium two pore domain channel subfamily k member 9,0.21122212707996368
+734,imatinib,asthma,cyclin dependent kinase 19,0.21108484268188477
+735,imatinib,asthma,acid sensing ion channel subunit 1,0.21038974821567535
+736,imatinib,asthma,testis specific serine kinase 1b,0.21024774014949799
+737,imatinib,asthma,doublecortin like kinase 1,0.20977982878684998
+738,imatinib,asthma,potassium voltage-gated channel subfamily c member 4,0.2085765153169632
+739,imatinib,asthma,potassium voltage-gated channel subfamily q member 5,0.2080807387828827
+740,imatinib,asthma,protein tyrosine kinase 2 beta,0.2060166746377945
+741,imatinib,asthma,prune exopolyphosphatase 1,0.20598600804805756
+742,imatinib,asthma,mitogen-activated protein kinase kinase 1,0.20522020757198334
+743,imatinib,asthma,guanylate cyclase 1 soluble subunit beta 1,0.2039164900779724
+744,imatinib,asthma,alk receptor tyrosine kinase,0.2037956416606903
+745,imatinib,asthma,dual specificity tyrosine phosphorylation regulated kinase 1b,0.20283626019954681
+746,imatinib,asthma,potassium inwardly rectifying channel subfamily j member 11,0.2023983597755432
+747,imatinib,asthma,death associated protein kinase 2,0.2013784945011139
+748,imatinib,asthma,histone deacetylase 4,0.20053517818450928
+749,imatinib,asthma,microtubule affinity regulating kinase 3,0.20021259784698486
+750,imatinib,asthma,protein kinase n1,0.19937707483768463
+751,imatinib,asthma,cyclin dependent kinase 6,0.1989135891199112
+752,imatinib,asthma,histone deacetylase 11,0.19858533143997192
+753,imatinib,asthma,potassium inwardly rectifying channel subfamily j member 2,0.19796814024448395
+754,imatinib,asthma,"protein phosphatase 3 regulatory subunit b, alpha",0.19744879007339478
+755,imatinib,asthma,histone deacetylase 3,0.19459719955921173
+756,imatinib,asthma,acyl-coa dehydrogenase short/branched chain,0.19345417618751526
+757,imatinib,asthma,methylmalonyl-coa mutase,0.1933540254831314
+758,imatinib,asthma,srsf protein kinase 3,0.19306495785713196
+759,imatinib,asthma,histone deacetylase 6,0.1927909404039383
+760,imatinib,asthma,myosin heavy chain 10,0.19274671375751495
+761,imatinib,asthma,potassium inwardly rectifying channel subfamily j member 8,0.19226302206516266
+762,imatinib,asthma,cyclin dependent kinase 16,0.19163964688777924
+763,imatinib,asthma,tyrosine kinase 2,0.19059564173221588
+764,imatinib,asthma,misshapen like kinase 1,0.19055797159671783
+765,imatinib,asthma,fer tyrosine kinase,0.19039197266101837
+766,imatinib,asthma,dead-box helicase 3 x-linked,0.18860119581222534
+767,imatinib,asthma,cyclin dependent kinase 14,0.18762828409671783
+768,imatinib,asthma,protein kinase n2,0.18727964162826538
+769,imatinib,asthma,histone deacetylase 10,0.18727754056453705
+770,imatinib,asthma,histone deacetylase 5,0.18723540008068085
+771,imatinib,asthma,inosine monophosphate dehydrogenase 1,0.1856856644153595
+772,imatinib,asthma,histone deacetylase 7,0.18484027683734894
+773,imatinib,asthma,histone deacetylase 9,0.18464617431163788
+774,imatinib,asthma,mitogen-activated protein kinase 14,0.1839236170053482
+775,imatinib,asthma,phosphorylase kinase catalytic subunit gamma 2,0.1838502436876297
+776,imatinib,asthma,histone deacetylase 2,0.18357492983341217
+777,imatinib,asthma,sonic hedgehog signaling molecule,0.1828465610742569
+778,imatinib,asthma,cdc like kinase 4,0.17962850630283356
+779,imatinib,asthma,inosine monophosphate dehydrogenase 2,0.17823584377765656
+780,imatinib,asthma,ribosomal protein s6 kinase a5,0.1781858503818512
+781,imatinib,asthma,histone deacetylase 8,0.1778215616941452
+782,imatinib,asthma,potassium voltage-gated channel modifier subfamily f member 1,0.1771077960729599
+783,imatinib,asthma,doublecortin like kinase 3,0.17667938768863678
+784,imatinib,asthma,protein phosphatase 3 catalytic subunit alpha,0.17645929753780365
+785,imatinib,asthma,delta like non-canonical notch ligand 1,0.17459718883037567
+786,imatinib,asthma,"dna polymerase delta 1, catalytic subunit",0.17442165315151215
+787,imatinib,asthma,"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase",0.17415596544742584
+788,imatinib,asthma,cyclin dependent kinase 8,0.1726134866476059
+789,imatinib,asthma,protein tyrosine kinase 2,0.17238634824752808
+790,imatinib,asthma,phosphatidylinositol-5-phosphate 4-kinase type 2 beta,0.17065858840942383
+791,imatinib,asthma,potassium voltage-gated channel modifier subfamily v member 1,0.16978596150875092
+792,imatinib,asthma,potassium voltage-gated channel modifier subfamily v member 2,0.16973289847373962
+793,imatinib,asthma,potassium voltage-gated channel modifier subfamily s member 2,0.16775628924369812
+794,imatinib,asthma,potassium voltage-gated channel modifier subfamily s member 1,0.16770346462726593
+795,imatinib,asthma,proteasome 20s subunit alpha 1,0.16768647730350494
+796,imatinib,asthma,potassium voltage-gated channel modifier subfamily s member 3,0.16708624362945557
+797,imatinib,asthma,cdc like kinase 2,0.16559235751628876
+798,imatinib,asthma,casein kinase 1 delta,0.16506631672382355
+799,imatinib,asthma,mitogen-activated protein kinase kinase 5,0.16408486664295197
+800,imatinib,asthma,potassium voltage-gated channel modifier subfamily g member 2,0.16083914041519165
+801,imatinib,asthma,potassium voltage-gated channel modifier subfamily g member 1,0.16078975796699524
+802,imatinib,asthma,proteasome 20s subunit beta 1,0.16056255996227264
+803,imatinib,asthma,udp-glucose ceramide glucosyltransferase,0.16055700182914734
+804,imatinib,asthma,potassium voltage-gated channel modifier subfamily g member 3,0.16021332144737244
+805,imatinib,asthma,potassium voltage-gated channel modifier subfamily g member 4,0.1575334370136261
+806,imatinib,asthma,ribosomal protein s6 kinase a1,0.15704765915870667
+807,imatinib,asthma,proteasome 20s subunit beta 2,0.15591447055339813
+808,imatinib,asthma,proteasome 20s subunit beta 10,0.15574155747890472
+809,imatinib,asthma,polo like kinase 4,0.15563364326953888
+810,imatinib,asthma,dual specificity tyrosine phosphorylation regulated kinase 2,0.1551763266324997
+811,imatinib,asthma,mapk interacting serine/threonine kinase 2,0.15224461257457733
+812,imatinib,asthma,ribosomal protein s6 kinase a6,0.15070918202400208
+813,imatinib,asthma,unc-51 like kinase 3,0.14991505444049835
+814,imatinib,asthma,mitogen-activated protein kinase kinase kinase 19,0.14788362383842468
+815,imatinib,asthma,proteasome 20s subunit beta 9,0.1477796584367752
+816,imatinib,asthma,proteasome 20s subunit beta 8,0.14506016671657562
+817,imatinib,asthma,mitogen-activated protein kinase kinase 2,0.14492511749267578
+818,imatinib,asthma,proteasome 20s subunit beta 5,0.14350715279579163
+819,imatinib,asthma,myosin light chain kinase 3,0.13861994445323944
+820,imatinib,asthma,myristoylated alanine rich protein kinase c substrate,0.13607046008110046
+821,imatinib,asthma,mitogen-activated protein kinase kinase kinase kinase 1,0.1309681087732315
+822,imatinib,asthma,ribosomal protein s6 kinase a2,0.13077986240386963
+823,imatinib,asthma,traf2 and nck interacting kinase,0.1307116448879242
+824,imatinib,asthma,mitogen-activated protein kinase kinase kinase 20,0.12439609318971634
+825,imatinib,asthma,mitogen-activated protein kinase kinase kinase 11,0.11941315978765488
+826,imatinib,asthma,hyperpolarization activated cyclic nucleotide gated potassium channel 1,0.1099279373884201
+827,imatinib,asthma,hyperpolarization activated cyclic nucleotide gated potassium channel 4,0.10639632493257523
+828,imatinib,asthma,hyperpolarization activated cyclic nucleotide gated potassium channel 3,0.10625041276216507
+829,imatinib,asthma,mitogen-activated protein kinase kinase kinase 7,0.10622473806142807
+830,imatinib,asthma,mitogen-activated protein kinase kinase kinase 2,0.10501986742019653
+831,imatinib,asthma,bcr activator of rhogef and gtpase,0.10376247763633728
+832,imatinib,asthma,mitogen-activated protein kinase kinase kinase 9,0.10055451095104218
+833,imatinib,asthma,hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2,0.08691418170928955
+834,imatinib,asthma,unc-51 like autophagy activating kinase 1,0.08165395259857178
+835,imatinib,asthma,unc-51 like autophagy activating kinase 2,0.07742062956094742

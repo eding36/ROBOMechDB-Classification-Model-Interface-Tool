@@ -35,7 +35,7 @@ vocab = biowordvec_model.index_to_key
 
 robomechdb_model = tf.keras.models.load_model('ROBOMechDB Complete Set 1 Model Fold 1.keras')
 import pandas as pd
-complete_set = pd.read_csv('complete_set.csv')
+complete_set = pd.read_csv('complete_set_1.csv')
 
 triples_drug_keys = complete_set['0']
 triples_disease_keys = complete_set['1']
